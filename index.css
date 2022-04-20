@@ -282,3 +282,8 @@
     color: #4c4f55;
     margin-top: 0;
 }
+
+@media only screen and (max-width: 620px) {
+    /* For mobile phones: */
+    .left, .right {
+      width: 100%;}}
